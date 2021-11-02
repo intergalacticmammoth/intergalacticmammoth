@@ -18,6 +18,6 @@ jobs:
           # Options
           user: intergalactic-mammoth
           template: classic
-          filename: metrics-base.svg
           base: header, activity, community, repositories
+          filename: metrics-base.svg
           config_timezone: Europe/Munich
